@@ -30,7 +30,7 @@ https://www.natfrp.com/tunnel/  隧道名称前变绿点 表示成功
 
 迁移隧道  网址会发生改变 通过SSH运行一次命令以确定正确网址
 
-JS脚本定时方法
+JS脚本定时方法 在脚本顶部插入以下代码
 
 [task_local]
 
