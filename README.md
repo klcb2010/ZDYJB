@@ -40,4 +40,5 @@ JS脚本定时方法 在脚本顶部插入以下代码
 
 cron "30 1,8,12,17 * * *"
 
-https://github.moeyy.xyz/这个放在仓库前面
+https://github.moeyy.xyz/ 放在青龙配置文件里边的 代理地址 值  里边
+
