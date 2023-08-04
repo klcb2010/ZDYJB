@@ -29,3 +29,15 @@
 https://www.natfrp.com/tunnel/  隧道名称前变绿点 表示成功
 
 迁移隧道  网址会发生改变 通过SSH运行一次命令以确定正确网址
+
+JS脚本定时方法
+
+[task_local]
+
+30 1,7,12,18,22 * * *
+
+[Script]
+
+cron "30 1,8,12,17 * * *"
+
+https://github.moeyy.xyz/这个放在仓库前面
