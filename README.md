@@ -42,3 +42,4 @@ cron "30 1,8,12,17 * * *"
 
 https://github.moeyy.xyz/ 放在青龙配置文件里边的 代理地址 值  里边
 
+![截屏图片](https://github.com/klcb2010/ZDYJB/assets/32628414/07bbb2cc-3958-435d-a412-1dac09d56f79)
