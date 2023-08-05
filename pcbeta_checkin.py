@@ -1,9 +1,8 @@
 '''
-2
+
 cron: 0 0 8 * * *
-3
 const $ = new Env("远景论坛签到");
-4
+
 '''
 import requests
 from datetime import datetime
