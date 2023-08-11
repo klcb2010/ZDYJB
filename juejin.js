@@ -1,8 +1,6 @@
 /*
-'''
 cron: 0 0 8 * * *
 const $ = new Env("掘金签到");
-'''
 */
 /*
 掘金 https://juejin.cn/
@@ -10,6 +8,7 @@ const $ = new Env("掘金签到");
 配合云函数或青龙面板定时执行实现每天无需操作全自动；
 变量：juejin_cookie  填写ck
 */
+
 
 const axios = require('axios');
 juejin_cookie = process.env.juejin_cookie
