@@ -1,11 +1,6 @@
 一 青龙 自动 HTTPS 自动  自动 HTTPS 工作模式  自动
 
 
-测试一下自动镜像  再次测试 什么时候修改  测试自动修改欧尼  好像不是实时同步  明天再看吧
-
-
-
-
 1 cd /usr/local/bin  进入安装目录
 
 2 wget -O frpc https://getfrp.sh/d/frpc_linux_arm64 # 如命令报错 尝试这条:curl -Lo frpc
