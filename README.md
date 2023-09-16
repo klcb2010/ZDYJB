@@ -1,4 +1,4 @@
-一 青龙 自动 HTTPS 自动  自动 HTTPS 工作模式  自动
+一 面具模块版本青龙
 
 
 1 cd /usr/local/bin  进入安装目录
